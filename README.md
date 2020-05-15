@@ -1,2 +1,2 @@
-# code dealing with the xbox controller
+# code dealing with the xbox controllers
 
